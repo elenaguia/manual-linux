@@ -3,3 +3,5 @@ En este repositorio se van a describir comandos de linux
 
 
 Los cambios los está realizando el usuario elenaguia
+
+Vamos a usar el fetch
