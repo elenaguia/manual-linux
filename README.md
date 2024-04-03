@@ -1,11 +1,11 @@
 # manual-linux - cambios desde rama1
 -	[FIND](find.html)
-    -name
-    -perm
-    -mtime
-    -exec
-    -size
--	PS
--	GREP
--	SORT
+    -[name] (find-name.html)
+    -[perm] (find-perm.html)
+    -[mtime] (find-mtime.html)
+    -[exec] (find-exec.html)
+    -[size] (find-size.html)
+-	[PS] (ps.html)
+-	[GREP] (grep.html)
+-	[SORT] (sort.html)
 
