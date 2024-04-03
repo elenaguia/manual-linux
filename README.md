@@ -1,7 +1,11 @@
 # manual-linux - cambios desde rama1
-En este repositorio se van a describir comandos de linux
+-	FIND
+    -name
+    -perm
+    -mtime
+    -exec
+    -size
+-	PS
+-	GREP
+-	SORT
 
-
-Los cambios los está realizando el usuario elenaguia
-
-Vamos a usar el fetch
