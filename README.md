@@ -1,5 +1,5 @@
 # manual-linux - cambios desde rama1
--	[FIND](www.github.com)
+-	[FIND](find.html)
     -name
     -perm
     -mtime
