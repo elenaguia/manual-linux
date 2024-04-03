@@ -1,2 +1,2 @@
-# manual-linux - mi primer readme, usaré este archivo para crear el índice del manual
+# manual-linux - cambios desde rama1
 En este repositorio se van a describir comandos de linux
